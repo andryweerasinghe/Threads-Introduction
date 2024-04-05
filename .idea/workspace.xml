@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b03927-0ef6-4b69-9210-af3c7de5078b" name="Changes" comment="Synchronized Keyword">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synchornized-Keyword/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Synchornized-Keyword/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="20b03927-0ef6-4b69-9210-af3c7de5078b" name="Changes" comment="Synchronized Keyword" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712289916025</updated>
       <workItem from="1712289917111" duration="475000" />
-      <workItem from="1712291823674" duration="8624000" />
+      <workItem from="1712291823674" duration="8929000" />
     </task>
     <task id="LOCAL-00001" summary="Implementing using the runnable interface">
       <option name="closed" value="true" />
@@ -111,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712299409111</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Synchronized Keyword">
+      <option name="closed" value="true" />
+      <created>1712300617202</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712300617202</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
