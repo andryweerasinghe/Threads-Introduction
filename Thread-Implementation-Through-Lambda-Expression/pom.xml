@@ -3,19 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>lk.ijse.ThreadsIntroduction</groupId>
+        <artifactId>ThreadsIntroduction</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
 
-    <groupId>lk.ijse.ThreadsIntroduction</groupId>
-    <artifactId>ThreadsIntroduction</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>RunnableImplementation</module>
-        <module>Extend-Thread-Class</module>
-        <module>Implement-Runnable-Interface</module>
-        <module>Implement-Runnable-Interface/src/main/java/lk/ijse/Thread-Implementation-Through-Lambda-Expression
-        </module>
-        <module>Join-IsAlive</module>
-    </modules>
+    <artifactId>Thread-Implementation-Through-Lambda-Expression</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

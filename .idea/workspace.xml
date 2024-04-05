@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20b03927-0ef6-4b69-9210-af3c7de5078b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Implement-Runnable-Interface/pom.xml" afterDir="false" />
+    <list default="true" id="20b03927-0ef6-4b69-9210-af3c7de5078b" name="Changes" comment="Implementing using the runnable interface">
+      <change afterPath="$PROJECT_DIR$/Join-IsAlive/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-Implementation-Through-Lambda-Expression/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extend-Thread-Class/src/main/java/lk/ijse/ThreadsIntroduction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extend-Thread-Class/src/main/java/lk/ijse/ThreadsIntroduction/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +50,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,11 +78,24 @@
       <option name="presentableId" value="Default" />
       <updated>1712289916025</updated>
       <workItem from="1712289917111" duration="475000" />
-      <workItem from="1712291823674" duration="1521000" />
+      <workItem from="1712291823674" duration="5003000" />
     </task>
+    <task id="LOCAL-00001" summary="Implementing using the runnable interface">
+      <option name="closed" value="true" />
+      <created>1712293386868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712293386868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementing using the runnable interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing using the runnable interface" />
   </component>
 </project>
