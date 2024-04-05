@@ -15,6 +15,7 @@
         <module>Thread-Implementation-Through-Lambda-Expression</module>
         <module>Join-IsAlive</module>
         <module>Thread-Priority</module>
+        <module>Synchornized-Keyword</module>
     </modules>
 
     <properties>
